@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch03-round-format", "ch03-round-format\ch03-round-format.csproj", "{C1706171-1FC7-4F6E-8762-1B35CDDE3130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1706171-1FC7-4F6E-8762-1B35CDDE3130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1706171-1FC7-4F6E-8762-1B35CDDE3130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1706171-1FC7-4F6E-8762-1B35CDDE3130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1706171-1FC7-4F6E-8762-1B35CDDE3130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4623D004-D9F3-408F-B8F4-007F4F41526A}
+	EndGlobalSection
+EndGlobal
