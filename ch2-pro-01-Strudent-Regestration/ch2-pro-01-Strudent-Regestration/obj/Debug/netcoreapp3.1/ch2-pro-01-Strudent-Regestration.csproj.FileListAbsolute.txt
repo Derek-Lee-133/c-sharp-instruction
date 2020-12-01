@@ -1,0 +1,12 @@
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\bin\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.exe
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\bin\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.deps.json
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\bin\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.runtimeconfig.json
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\bin\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\bin\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.dll
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\bin\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.pdb
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\obj\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\obj\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\obj\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\obj\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.dll
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\obj\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.pdb
+C:\repos\c-sharp-instruction\ch2-pro-01-Strudent-Regestration\ch2-pro-01-Strudent-Regestration\obj\Debug\netcoreapp3.1\ch2-pro-01-Strudent-Regestration.genruntimeconfig.cache
