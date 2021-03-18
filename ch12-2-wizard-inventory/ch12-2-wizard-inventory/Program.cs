@@ -20,7 +20,7 @@ namespace ch12_2_wizard_inventory
 			}
 
 
-			Console.WriteLine("Bye! Happy adventchuring");
+			Console.WriteLine("Bye! Happy adventuring");
 		}
 	}
 }
